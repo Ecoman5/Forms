@@ -1,0 +1,17 @@
+
+.form-control{
+ width: 300px;
+ height: 40px;
+ border-radius: 10px;
+ padding-left: 5px;
+ margin: 50px;
+ border: none;
+ outline-style: none;
+ background-color: rgb(198, 230, 230);
+}
+.title{
+ flex-wrap: wrap;
+}
+img{
+ width: 200px;
+}
